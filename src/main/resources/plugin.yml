@@ -1,0 +1,6 @@
+name: SwearFilter
+version: ${project.version}
+main: dev.kalonic.swearfilter.Main
+api-version: 1.16
+authors: [ Kalonic ]
+description: SwearFilter
